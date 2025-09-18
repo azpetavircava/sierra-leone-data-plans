@@ -73,3 +73,10 @@ layout: default
 　　物理SIM卡（Nano-SIM）仍是主流，但**eSIM**在2025年对旅行者来说，优势越来越明显：
 *   **无需换卡**：提前在线购买激活，飞机落地瞬间就有网，告别机场排队买卡、找针换卡的狼狈。特别是转机时间紧，这简直是救命稻草。
 *   **双卡便利**：保留你的国内号码接收短信，同时用塞
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Sierra Leone SIM 卡购买与激活指南](https://faciylike.github.io/sierra-leone-sim-guides)
